@@ -21,7 +21,7 @@ A simple, minimalist website with a black-and-white background, featuring a head
 
 ## Demo Screenshot
 
-![Desktop Demo](![dem.png](assets/img/dem.png)))
+![Desktop Demo](dem.png](assets/img/dem.png))
 
 ---
 
