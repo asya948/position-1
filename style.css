@@ -42,7 +42,7 @@
 .banner{
     width: 50%;
     height: 400px;
-    background-color: pink;
+    background-color: white;
     position: relative ;
     z-index: 1;
     align-self: flex-end;
